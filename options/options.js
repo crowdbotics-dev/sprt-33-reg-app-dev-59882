@@ -12,5 +12,6 @@ export const modulesOptions = {
   },
 
   undefined: { buttonText: "click pic", styles: styles },
-  undefined: { buttonText: "+ Take Photo", styles: styles }
+  undefined: { buttonText: "+ Take Photo", styles: styles },
+  undefined: { buttonText: "+click photo", styles: styles }
 }
