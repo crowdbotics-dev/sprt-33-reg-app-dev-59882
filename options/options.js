@@ -10,5 +10,7 @@ export const modulesOptions = {
   "@modules/app-menu": {
     copy: "Routes available!"
   },
-  undefined: { buttonText: "click pic", styles: styles }
+
+  undefined: { buttonText: "click pic", styles: styles },
+  undefined: { buttonText: "+ Take Photo", styles: styles }
 }
